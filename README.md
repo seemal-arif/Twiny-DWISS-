@@ -16,6 +16,6 @@ This project was developed for a **Shopify-based** watch store to introduce a We
 - **Shopify Webhooks**: Implemented Shopify webhooks to track store transactions and trigger ownership emails.
 - **Smart Contracts on Polygon**: Deployed smart contracts on Polygon Amoy (testnet) and Polygon mainnet for live operations.
   
-## Role:
+## Role
 - **Lead Blockchain & Backend Developer**: Led the blockchain and backend development of the project.
 - **Client Communication & Requirement Gathering**: Managed client communication and gathered project requirements.
