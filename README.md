@@ -4,7 +4,7 @@ A secure ERC721-based NFT contract for minting and managing digital watch certif
 ## Deployment Details  
 - **Network:** Polygon Mainnet  
 - **Contract Address:** `0xeA7d293E9e65461aDb0dA118261b7780e68286eA`  
-- **Block Explorer:** [Arbiscan Link](https://polygonscan.com/address/0xeA7d293E9e65461aDb0dA118261b7780e68286eA#code)
+- **Block Explorer:** [Polyscan Link](https://polygonscan.com/address/0xeA7d293E9e65461aDb0dA118261b7780e68286eA#code)
 
 ## Description
 This project was developed for a **Shopify-based** watch store to introduce a Web3 ownership feature. When customers purchase a watch from the Shopify store, they receive an email notifying them that they can also claim digital ownership of the watch on the blockchain. To do so, they need to install the DWISS mobile app, where they can mint their watch as an NFT. The platform also allows users to update their watch attributes and engage with a dedicated community.Additionally, this project includes a mobile app (DWISS) and an admin panel for managing users and watches.
