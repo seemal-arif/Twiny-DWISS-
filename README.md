@@ -14,6 +14,7 @@ This project was developed for a **Shopify-based** watch store to introduce a We
 - **Node.js & Express.js**: Utilized Node.js for backend services and Express.js for API development.
 - **Firebase Integration**: Integrated Firebase for push notifications.
 - **Shopify Webhooks**: Implemented Shopify webhooks to track store transactions and trigger ownership emails.
+- **Database Management :** Used MongoDB for database management
 - **Smart Contracts on Polygon**: Deployed smart contracts on Polygon Amoy (testnet) and Polygon mainnet for live operations.
   
 ## Role
